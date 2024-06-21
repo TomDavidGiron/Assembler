@@ -1,0 +1,20 @@
+t4
+
+
+
+mcro m1
+inc r2
+mov A,r1
+endmcro
+
+m1
+
+mcro t4
+test r2
+test2 @ test1
+endmcro
+
+m1
+
+t4
+
